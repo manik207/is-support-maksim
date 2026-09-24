@@ -1,2 +1,2 @@
-# is-support-TARAKANOV MAKSIM
+# is-support- MAKSIM
 Учебный проект по сопровождению ИС
